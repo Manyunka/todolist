@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F78545</color>
+    <color name="colorPrimaryDark">#C66A35</color>
+    <color name="colorAccent">#F68545</color>
+
+    <color name="background">#E5E5E5</color>
+
+    <color name="headlineColor">#F2732A</color>
+    <color name="titleCategoryColor">#636363</color>
+    <color name="textColor">#000000</color>
+    <color name="noteColor">#7A7A7A</color>
+
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="secondButtonTextColor">#484848</color>
+    <color name="secondButtonColor">#D8D8D8</color>
+
+    <color name="enterDataColor">#DE000000</color>
+    <color name="fieldColor">#0F333333</color>
+
+    <color name="error">#DB4437</color>
+</resources>

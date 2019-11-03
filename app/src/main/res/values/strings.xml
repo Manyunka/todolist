@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Not Forgot!</string>
+    <string name="log_in">Вход</string>
+    <string name="login_hint">Логин</string>
+    <string name="password_hint">Пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="enter">Войти</string>
+    <string name="confirm_password_hint">Повторите пароль</string>
+    <string name="name_hint">Имя</string>
+    <string name="add_task">Добавить заметку</string>
+    <string name="title_hint">Название</string>
+    <string name="descript">Описание</string>
+    <string name="save">Сохранить</string>
+    <string name="calendar_hint">Сделать до</string>
+    <string name="counter_symbols">0/120</string>
+    <string name="enter_category">Введите название</string>
+    <string name="e_mail">E-mail</string>
+    <string name="error_404">"E-mail или пароль введены не верно"</string>
+    <string name="placeholder_text">У вас пока нет дел.\nСчастливый вы человек!</string>
+</resources>
